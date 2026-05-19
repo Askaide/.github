@@ -18,6 +18,14 @@ Askaide is a Belgian-first multi-country local services marketplace for home ser
 
 https://askaide.com
 
+## Public Logo Asset
+
+```text
+assets/askaide-logo.svg
+```
+
+This public logo asset is intended for the GitHub organization profile and official public documentation only.
+
 ## Primary Geography
 
 - Belgium

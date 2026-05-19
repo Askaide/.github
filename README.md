@@ -14,6 +14,12 @@ Public documentation:
 docs/
 ```
 
+Public assets:
+
+```text
+assets/askaide-logo.svg
+```
+
 Organization-wide community and security files:
 
 ```text

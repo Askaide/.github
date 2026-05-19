@@ -1,5 +1,7 @@
 # Askaide
 
+![Askaide logo](../assets/askaide-logo.svg)
+
 Askaide is a Belgian-first multi-country local services marketplace connecting individuals with trusted local service providers.
 
 The platform helps people find practical support for everyday needs: cleaning, handyman work, gardening, childcare, tutoring, moving help, transport, senior support, computer assistance and other local home services.
