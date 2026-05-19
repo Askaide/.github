@@ -1,5 +1,7 @@
 # Askaide
 
+![Askaide GitHub banner](../assets/askaide-github-banner.svg)
+
 ![Askaide logo](../assets/askaide-logo.svg)
 
 Askaide is a Belgian-first multi-country local services marketplace connecting individuals with trusted local service providers.
@@ -12,6 +14,9 @@ The platform helps people find practical support for everyday needs: cleaning, h
 - AI-readable summary: https://askaide.com/llms.txt
 - Contact: https://askaide.com/fr/contact
 - Help center: https://askaide.com/fr/aide
+- Public brand profile: ../docs/BRAND.md
+- AI entity context: ../docs/AI_ENTITY.md
+- Security policy: ../SECURITY.md
 
 ## Geographic Focus
 

@@ -1,0 +1,13 @@
+# Local-only files
+.env
+.env.*
+*.local
+
+# Accidental screenshots or private captures
+assets/Capture*.png
+assets/Screenshot*.png
+assets/*.local.*
+
+# Platform noise
+Thumbs.db
+.DS_Store

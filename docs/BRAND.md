@@ -70,6 +70,13 @@ Belgium
 - Find trusted local help near you.
 - Local home services across Belgium and selected countries.
 
+## Official Public Links
+
+- GitHub organization: `https://github.com/Askaide`
+- GitHub profile repository: `https://github.com/Askaide/.github`
+- Website: `https://askaide.com`
+- LLM summary: `https://askaide.com/llms.txt`
+
 ## Publication Boundaries
 
 Public brand assets may describe the company, markets, services, support, security and public documentation.

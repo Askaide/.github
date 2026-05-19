@@ -18,6 +18,7 @@ Public assets:
 
 ```text
 assets/askaide-logo.svg
+assets/askaide-github-banner.svg
 ```
 
 Organization-wide community and security files:
@@ -39,6 +40,17 @@ This repository exists to make the official Askaide GitHub organization understa
 - AI/entity context;
 - mobile app public notes;
 - privacy and publication boundaries.
+
+## Key Documents
+
+- `docs/BRAND.md`
+- `docs/AI_ENTITY.md`
+- `docs/ORGANIZATION_PROFILE.md`
+- `docs/SAMEAS_READINESS.md`
+- `docs/REPOSITORY_SECURITY.md`
+- `docs/MOBILE_APP.md`
+- `docs/PRIVACY_AND_DATA.md`
+- `docs/PUBLICATION_POLICY.md`
 
 ## Publication Rules
 
