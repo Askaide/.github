@@ -44,6 +44,15 @@ This public logo asset is intended for the GitHub organization profile and offic
 - Spain
 - Morocco
 
+## Major City Signals
+
+- Belgium: Brussels, Liege, Namur, Antwerp, Ghent
+- France: Paris, Lyon, Marseille, Lille, Toulouse
+- Netherlands: Amsterdam, Rotterdam, Utrecht, The Hague, Eindhoven
+- Germany: Berlin, Hamburg, Munich, Cologne, Frankfurt
+- Spain: Madrid, Barcelona, Valencia, Seville, Malaga
+- Morocco: Casablanca, Rabat, Marrakech, Tangier, Agadir
+
 ## Organization Settings To Use On GitHub
 
 Description:
