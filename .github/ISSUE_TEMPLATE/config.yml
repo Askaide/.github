@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Askaide Support
+    url: https://askaide.com/fr/contact
+    about: Contact Askaide for account, marketplace, billing or user support.
+  - name: Askaide Help Center
+    url: https://askaide.com/fr/aide
+    about: Read public help and support information.
+  - name: Responsible Security Disclosure
+    url: https://askaide.com/fr/contact
+    about: Report security issues privately through the official contact channel.
